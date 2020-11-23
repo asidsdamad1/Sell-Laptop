@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login</title>
+    <link rel="stylesheet" href="Form.css" type="text/css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <script src="js/nav.js" ></script>
+</head>
+<body>
+<div id="main">
+    <div class="content row">
+        <div id="image-header">
+            <img alt="" src="logo_icon.png"/>
+            <img alt="" src="logo_word.png"/>
+        </div>
+        <h2 class="title">Đăng nhập</h2>
+        <form id="form-register" class="LoginForm" method="post">
+            <div id="line-username" class="line">
+                <input id="username" type="text" placeholder="Tên đăng nhập" autocomplete="off"/>
+            </div>
+            <div id="line-password" class="line">
+                <input id="password" type="password" placeholder="Mật khẩu" autocomplete="off"/>
+            </div>
+            <label for="remember_me" class="checkbox" style="font-weight: normal;text-align: center;border-right-width: 20px;padding-right: 270px;">
+                <input type="checkbox" id="remember_me" name="_remember_me" value="on" style="margin-right: 5px; ">
+               Ghi nhớ mật khẩu </label>
+
+            <div ><input onclick="checkLogIn()" id="button_confirm" type="button" name="confirm" value="Đăng nhập"/></div>
+            <p class="lost-password">Bạn quên mật khẩu? <a href="/a/reset/request">Click vào đây</a></p>
+        </form>
+
+        <div id="line-submit">
+            <div class="line-break"><hr></div>
+            <div id="text-break" class="break"><p>HOẶC</p></div>
+            <div class="line-break"><hr></div>
+        </div>
+        <div id="break" class="line-submit">
+            <a href="Form.html"> <input id="submit" type="submit" value="Đăng ký ngay"/></a>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>

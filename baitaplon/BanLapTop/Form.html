@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Login</title>
+<link rel="stylesheet" href="Form.css" type="text/css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+</head>
+<body>
+	<div id="main">
+    	<div class="content row">
+        	<div id="image-header">
+            	<img alt="" src="logo_icon.png"/>
+                <img alt="" src="logo_word.png"/>
+            </div>
+        	<h2 class="title">Đăng ký</h2>
+            <form id="form-register" class="LoginForm" method="post">
+            	<div id="line-username" class="line">
+                	<input id="username" type="text" placeholder="Tên đăng nhập" autocomplete="off"/>
+                </div>
+                <div id="line-password" class="line">
+                	<input id="register_form_password" type="password" placeholder="Mật khẩu" autocomplete="off"/>
+                </div>
+                <div id="password" class="line">
+                	<input id="register_form_confirm_password" type="password"
+ placeholder="Xác nhận mật khẩu" autocomplete="off"/>                
+ 				</div>
+                <div id="line-email" class="line">
+                	<input id="register_form_email" type="email" placeholder="Email" autocomplete="off"/>
+                    <div class="reminder">Bạn cần sử dụng email này khi muốn lấy lại mật khẩu</div>
+                </div>
+                <div id="line-phone" class="line">
+                	<select id="select-area-code" name="area-code" class="area-code">
+                    	<option value="001">USA +1</option>
+                        <option value="007">RSA +7</option>
+                        <option value="020">EGT +20</option>
+                        <option value="033">FRA +33</option>
+                        <option value="034">SPA +34</option>
+                        <option value="039">ITA +39</option>
+                        <option value="044">UK +44</option>
+                        <option value="049">GER +49</option>
+                        <option value="061">AUS +61</option>
+                        <option value="082">JPN +82</option>
+                        <option value="084" selected >VIE +84</option>
+                    </select>
+                    <input type="tel" name="telephone" id="register_telephone" placeholder="Số điện thoại" autocomplete="off"/>
+                </div>
+                <div id="line-agree" class="line">
+                	<input type="checkbox" name="argee"  id="register_agree" /><label for="register_agree"> Tôi đồng ý với <a class="link" href="https:\\laptop.cc">Điều Khoản Dịch Vụ</a> và <a class="link" href="https:\\laptop.cc">Chính Sách Bảo Mật</a></label>
+				</div>
+                <div id="line-submit" class="line-submit">
+                	<input onclick="checkRegister()" id="submit" type="submit" value="Đăng ký ngay"/>
+				</div>
+            </form>
+            <div id="break">
+            	<div class="line-break"><hr></div>
+                <div id="text-break" class="break"><p>HOẶC</p></div>
+                <div class="line-break"><hr></div>
+            </div>
+            <div ><a href="dangnhap.html"><input id="button_confirm" type="button" name="confirm" value="Đăng nhập"/></a></div>
+        </div>
+    </div>
+</body>
+</html>

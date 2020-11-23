@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b126122-bfcf-485e-a6fd-aef0a1b637c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/.idea/BTL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/CoverBullGroup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/IMG_0701.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/IMG_3919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/dog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/img/maiLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTL_TKe_Web-master/js/js.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../BTL_TKe_Web-master" />
+  </component>
+  <component name="ProjectId" id="1j2Dw23IBycCSrz1RBRiodXC8xT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web\baitaplon\BanLapTop" />
+      <recent name="D:\web\baitaplon\img2" />
+      <recent name="D:\web\baitaplon\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web\baitaplon" />
+      <recent name="D:\web\baitaplon\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b126122-bfcf-485e-a6fd-aef0a1b637c2" name="Default Changelist" comment="" />
+      <created>1602993528854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602993528854</updated>
+      <workItem from="1602993530394" duration="7805000" />
+      <workItem from="1603004308162" duration="886000" />
+      <workItem from="1603020189649" duration="857000" />
+      <workItem from="1603021157342" duration="1058000" />
+      <workItem from="1603030849373" duration="36000" />
+      <workItem from="1603030887042" duration="115000" />
+      <workItem from="1603031034746" duration="323000" />
+      <workItem from="1603112562097" duration="159000" />
+      <workItem from="1603191238390" duration="392000" />
+      <workItem from="1603210298853" duration="998000" />
+      <workItem from="1603257324431" duration="2131000" />
+      <workItem from="1603335098523" duration="1684000" />
+      <workItem from="1604459801970" duration="2551000" />
+      <workItem from="1604468128350" duration="5400000" />
+      <workItem from="1604479112429" duration="5657000" />
+      <workItem from="1604489520328" duration="2888000" />
+      <workItem from="1604504113161" duration="3201000" />
+      <workItem from="1604565763691" duration="7245000" />
+      <workItem from="1604589800748" duration="5883000" />
+      <workItem from="1604631550286" duration="5050000" />
+      <workItem from="1604636882780" duration="140000" />
+      <workItem from="1604645010406" duration="7833000" />
+      <workItem from="1604719267211" duration="9510000" />
+      <workItem from="1604754641475" duration="1660000" />
+      <workItem from="1604812018099" duration="11044000" />
+      <workItem from="1604839380351" duration="452000" />
+      <workItem from="1604909167257" duration="119000" />
+      <workItem from="1604920601284" duration="601000" />
+      <workItem from="1604922364498" duration="308000" />
+      <workItem from="1604923198389" duration="22000" />
+      <workItem from="1605176206535" duration="20000" />
+      <workItem from="1605176227876" duration="26000" />
+      <workItem from="1605176264592" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="236" key="#Notifications" timestamp="1605176274482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1605176274482" />
+    <state x="522" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604470833291">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="522" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1604470833291" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605176246437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605176246437" />
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1604922377363" />
+    <state x="0" y="0" width="1179" height="851" key="dock-window-1" timestamp="1604471062681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" width="1179" height="811" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1603020975874" />
+    <state x="0" y="0" width="1179" height="851" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1604471062681" />
+    <state x="100" y="100" width="1336" height="624" key="dock-window-2" timestamp="1604471062681">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="dock-window-2/0.0.1536.864@0.0.1536.864" timestamp="1604471062681" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1602998918556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1602998918556" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1603001585669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603001585669" />
+  </component>
+</project>

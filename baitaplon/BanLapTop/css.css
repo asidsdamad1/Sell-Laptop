@@ -1,0 +1,337 @@
+.productName, .price, .order{
+    text-align: center;
+}
+.productName{
+    font-weight: bold;
+}
+.thumbnail a{
+    margin-right: 5px;
+}
+.thumbnail{
+    padding: 10px;
+}
+.order{
+    padding-top: 10px;
+}
+.home span{
+    font-family: Mightype;
+    font-size: 40px;
+}
+.home{
+    padding: 30px;
+    text-align: center;
+}
+.imgProduct {
+    transition: transform 0.5s !important;
+}
+
+.imgProduct:hover {
+    z-index: 1;
+    transform: scale(0.9) !important; /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.centerLogo {
+
+    padding: 20px 0px 20px 30px;
+}
+
+.hoverImg {
+    position: inherit;
+}
+
+.thumbnail {
+    position: relative;
+    text-align: center;
+}
+
+.page-item.active .page-link {
+    background-color: #ba1826;
+    border-color: #ba1826;
+}
+
+.page-link {
+    color: black;
+}
+
+body {
+    background-color: #8b9db1;
+    font-family: Quicksand, sans-serif;
+    font-size: 15px;
+}
+
+.row {
+    margin-right: 0px;
+}
+.list-menu > a {
+    color: #007bff;
+}
+.container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.btn-mess {
+    padding-top: 0px;
+    padding-left: 35px;
+}
+
+.btn-mess a {
+    width: 89%;
+    border-radius: 12px;
+}
+
+#contact {
+
+    right: 50px;
+    padding-top: 8px;
+}
+
+#contact ul li {
+    padding-top: 3px;
+    line-height: 20px;
+    list-style: none;
+    color: white;
+    float: right;
+}
+
+.input-group {
+    padding-left: 40px;
+    padding-right: 45px;
+    padding-top: 25px;
+}
+
+#goTop {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    border-radius: 50px !important;
+    z-index: 99;
+    outline: none;
+    background-color: rgba(0, 0, 0, .3);
+    color: white;
+    cursor: pointer;
+    padding: 18px 22px 4.55px 22px;
+    border-radius: 4px;
+}
+
+nav {
+    background-attachment: fixed;
+    /*background-image: linear-gradient(whitesmoke, white, #253235   )!important;*/
+    background-color: whitesmoke;
+}
+
+.heightCar {
+    height: 300px;
+}
+#messIc {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+.mess {
+
+    right: 0px;
+    padding-right: 5px;
+    width: 375px;
+    height: 202px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    bottom: 0;
+    box-shadow: 0 1pt 12pt rgba(0, 0, 0, .25);
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    z-index: 1000;
+    cursor: pointer;
+}
+
+.list-group-item {
+    background-color: #44525a;
+
+}
+
+.colorFont {
+    /*background-color: black;*/
+    color: white;
+}
+
+.category {
+    margin-bottom: 30px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.moreCate {
+    text-align: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.colorBack {
+    background-color: #44525a;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.colorProduct {
+    color: black;
+}
+
+.btn-outline-danger {
+    color: #44525a;
+    border: 1px solid #44525a;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.hideProduct {
+    z-index: 2;
+}
+
+.headerWordColor {
+    color: white;
+}
+
+ul li {
+    float: left;
+}
+
+.prompTextBubble {
+    background-color: #f1f0f0;
+    border-radius: 30px;
+    display: inline-block;
+    font-size: 11pt;
+    padding: 8px 12px;
+}
+
+.name {
+    color: rgba(0, 0, 0, .45);
+    font-size: 12px;
+    padding-left: 75px;
+}
+.reponsiveFont {
+    font-size: 0.9em;
+}
+.textRep {
+    font-size: 1vm;
+}
+.listImg {
+    float: left;
+    padding-right: 10px;
+    width: 6em;
+}
+.payment {
+    width: 300px;
+}
+@media only screen and (max-width: 1435px) {
+    .text-left {
+        width: 40%;
+    }
+    @media only screen and (max-width: 1237px ) {
+        .textRep {
+            font-size: 12px;
+        }
+        .call {
+            font-size: 13px;
+        }
+    }
+    @media only screen and (max-width: 1261px ) {
+        .hideText {
+            display: none;
+        }
+        .listImg {
+            width: 3.5em;
+        }
+        .e {
+            font-size: 10px;
+        }
+    }
+
+
+    @media only screen and (max-width: 1065px ) {
+
+        .add {
+            font-size: 0.7em;
+        }
+
+        .listImg {
+            width: 4em;
+        }
+
+        .textRep {
+            font-size: 11px;
+        }
+    }
+    @media only screen and (max-width: 991px ) {
+
+    }
+    @media only screen and (max-width: 955px ) {
+        .payment {
+            width: 270px;
+        }
+
+    }
+
+    @media only screen and (max-width: 867px) {
+        .add {
+            font-size: 0.6em;
+        }
+        .number {
+            padding-left: 25px;
+        }
+    }
+    @media only screen and (max-width: 765px) {
+        .logo {
+            width: 20%;
+            float: left;
+        }
+
+        .centerCar {
+            left: 33px;
+        }
+
+        .add {
+            display: none;
+        }
+
+        .hideText {
+            display: flex;
+            width: 200px;
+        }
+        .e {
+            font-size: 14px;
+        }
+
+    }
+    @media only screen and (max-width: 576px) {
+        .paymentRep {
+            float: left;
+        }
+        .listImg {
+            width: 50px;
+        }
+        .textRep {
+            font-size: 11px;
+        }
+        .ship {
+            width: 433px;
+        }
+        .payment_col {
+            padding-top: 10px;
+            padding-right: 200px;
+        }
+        .paymentRep {
+            padding-left: 25px;
+            float: left;
+        }
+        .imgPayment {
+            padding-left: 23px;
+        }
+    }
+}

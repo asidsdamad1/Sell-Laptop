@@ -1,0 +1,193 @@
+@charset "utf-8";
+
+
+
+
+@media screen and (min-width:200px){
+label {
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 20px;
+	display: block;
+	margin-bottom: 5px;
+}
+	.lost-password {
+		text-align: center;
+	}
+	body{
+	margin:0px;
+}
+#main{
+	background-image:linear-gradient(to bottom,#CCC,white);
+	padding:24px 50px 50px;
+	overflow: auto;
+}
+
+.content{
+	width: 760px;
+    min-height: 450px;
+	border:1px solid #999;
+	border-radius:5px;
+	margin: 45px auto 50px;	
+	padding:24px 10px 50px;
+	background-color:#FFF;
+}
+
+#image-header{
+	margin: 30px auto;
+	text-align:center;	
+}
+
+.title{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:center;
+	font-weight:bold;	
+}
+
+.LoginForm{
+	margin:24px 20px 20px;
+	text-align:justify;
+}
+
+.LoginForm .content{
+	position:relative;	
+}
+
+input[type="text"], input[type="password"], input[type="email"], select, input[type="tel"]{
+	display: block;
+    width: 363px;
+    padding: 12px 15px;
+    border: 1px solid #dad8d3;
+    border-radius: 3px;
+    line-height: 14px;
+    font-size: 12px;
+    background-color: #ffffff;
+	margin:10px auto 20px;	
+}
+
+input[type="email"]{
+	margin: 10px auto;
+}
+.reminder{
+	width:363px;
+	display:block;
+	margin: 10px auto;
+	font:15px Arial, Helvetica, sans-serif;
+}
+
+#line-phone{
+	display:block;
+	width:400px;
+	margin: 10px auto;
+}
+
+select{
+	margin:0px;
+	width:120px;
+	display:inline-block;		
+}
+
+input[type="tel"]{
+	margin:0px;
+	width:243px;
+	display:inline-block;	
+}
+
+#line-agree{
+	width:410px;
+	display:block;
+	margin:10px auto;	
+}
+
+a{
+	text-decoration:none;	
+}
+
+input[type="checkbox"]{
+	display:inline-block;
+	margin: 10px auto;	
+}
+
+#line-agree{
+	font-weight:bold;
+	font:14px Arial, Helvetica, sans-serif;
+}
+
+input[type="submit"]{
+	display:block;
+	width:200px;
+	font: bold Arial, Helvetica, sans-serif ;
+	color:#FFF;
+	background-color:#F00;
+	margin:20px auto;
+	padding:12px 15px;
+	border:1px solid #dad8d3;
+	border-radius:3px;
+	line-height:14px;
+	font-size:15px;
+}
+input[type="submit"]:hover{
+	background-color:#666;	
+	color:#000;
+	width:250px;
+	line-height:20px;
+}
+
+
+#register_form_account:focus, #register_form_password:focus, #register_form_confirm_password:focus,
+#register_form_email:focus {
+	width: 400px;
+	border:1px solid #F00;
+	outline:none;
+    line-height: 20px;
+    font-size: 12px;	
+}
+
+input[type="tel"]:focus{
+	border:1px solid #F00;
+	outline:none;	
+}
+
+#break{
+	width:400px;
+	min-height:10px;
+	margin:10px auto;
+}
+
+.line-break{
+	height:50px;
+	display:block; width:40%; float:left; 
+	font-weight:bold;	
+	padding:15px 0 0;
+}
+
+#text-break{
+	height:50px;
+	display:block; width:20%; float:left;
+	text-align:center; 
+	font-weight:bold;	
+}
+
+#button_confirm{
+	border:1px solid #fff;
+	border-radius:3px;
+	display:block;
+	width:200px;
+	background-color:#06F;
+	color:#FFF;
+	margin:20px auto;
+	line-height:14px;
+	font: 15px Arial, Helvetica, sans-serif;
+	padding:10px 14px;
+}
+
+#button_confirm:hover{
+	background-color:#666;
+	color:#000;
+	width:250px;
+	line-height:20px;
+		
+}
+
+}
